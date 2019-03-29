@@ -1,17 +1,17 @@
 {
-        inventory : [
+        "inventory" : [
         {
-            id : 1,
-            registration_No : 464654,
-            color : "blue",
-            new : false
+            "id" : 1,
+            "registration_No" : 464654,
+            "color" : "blue",
+            "new" : false
         },
         {
-            id: 2,
-            registration_No : 766876,
-            color : "red",
-            new : false
+            "id": 2,
+            "registration_No" : 766876,
+            "color" : "red",
+            "new" : false
         },
       ],
-      error : "error caught"
+      "error" : "error caught"
  }
